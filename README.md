@@ -35,36 +35,37 @@
 - **Backend**: ASP.NET Core (Clean Architecture + CQRS + MediatR), SignalR + Redis backplane, EF Core + PostgreSQL, MinIO  
 - **Frontend**: Flutter (Web/Mobile/Desktop) + Riverpod + Flame + Flutter Quill + Drift (offline-first)  
 
-[Подробнее →](./attachments/DnDigital.md)
+[Подробнее →](https://github.com/m-dan12/DnDigital)
 
 ### **ReadMD** — Лёгкий Markdown-ридер для Windows
 Быстрый просмотрщик и редактор `.md` файлов с удобной типографикой, темами, подсветкой кода и установкой как приложение по умолчанию.
 
 **Стек**: Avalonia UI 12, MVVM (CommunityToolkit), MarkView.Avalonia, .NET 10.
 
-[Подробнее →](./attachments/ReadMD.md)
+[Подробнее →](https://github.com/m-dan12/ReadMD)
 
 ### **BeautyGuide** — Каталог салонов красоты и мастеров
 Кроссплатформенное приложение для поиска услуг, мастеров, онлайн-записи, фильтрации и просмотра на карте (Яндекс.Карты).
 
 **Стек**: Avalonia UI (Desktop + Android + iOS + Browser/WASM), ReactiveUI + CommunityToolkit.Mvvm, локальные JSON-данные.
 
-[Подробнее →](./attachments/BeautyGuide.md)
+[Подробнее →](https://github.com/m-dan12/BeautyGuide_v2)
 
 ### **MountingSheets** — Автоматизация монтажных листов
 Исследовательский проект (ВКР): распознавание речи (Vosk + Whisper), обработка видео (FFmpeg + OpenCV), сопоставление сцен и экспорт в Excel.
 
 **Стек**: .NET 8, OpenCvSharp, FFmpeg.AutoGen, EPPlus, Vosk.
 
-[Подробнее →](./attachments/MountingSheets.md)
+[Подробнее →](https://github.com/m-dan12/MountingSheets_TestScripts)
 
 ### Flutter pet-проекты
 - **DnDigital Notes** — Многопанельный редактор заметок мастера для RPG (Flutter Quill + Hive + resizable panels + window_manager).  
-[Подробнее →](./attachments/Flutter-Quill-App.md)
+[Подробнее →](https://github.com/m-dan12/DnDigital-Notes)
 
 ## Образование
 
 - **Бакалавр** — Прикладная информатика, Самарский государственный технический университет (2025)
+- **Магистратура** — Информатика и вычислительная техника (профиль: Разработка высоконагруженных приложений), Самарский университет (2027)
 - Повышение квалификации — Педагогика дополнительного образования (2026)
 
 ## Контакты
