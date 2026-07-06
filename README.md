@@ -59,7 +59,7 @@
 [Подробнее →](https://github.com/m-dan12/MountingSheets_TestScripts)
 
 ### Flutter pet-проекты
-- **DnDigital Notes** — Многопанельный редактор заметок мастера для RPG (Flutter Quill + Hive + resizable panels + window_manager).  
+**DnDigital Notes** — Многопанельный редактор заметок мастера для RPG (Flutter Quill + Hive + resizable panels + window_manager).  
 [Подробнее →](https://github.com/m-dan12/DnDigital-Notes)
 
 ## Образование
