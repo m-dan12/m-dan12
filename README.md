@@ -1,16 +1,78 @@
-## Hi there 👋
+# Привет 👋 Я Даниил Малинин
 
-<!--
-**m-dan12/m-dan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**C#/.NET разработчик** (22 года, Самара). Ищу работу — готов к офису, удалёнке или гибриду по России.  
 
-Here are some ideas to get you started:
+Совмещаю опыт коммерческой и педагогической разработки с активной pet-проектной деятельностью. Преподаю C# и Java в центре технического творчества.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Опыт работы
+
+**Педагог-разработчик**  
+*ГБОУ ДО СО СОЦДЮТТ (juntech.ru)* — Август 2024 — настоящее время  
+- Разработал и внедрил учебные программы по C# и Java с нуля (синтаксис, ООП, алгоритмы, десктопные приложения, backend).  
+- Организовал полный цикл разработки учебных проектов: от архитектуры до Docker-деплоя.  
+- Проводил практику по Git, REST API, gRPC.
+
+**Программист 1С**  
+*Апогей-БК* — Август 2023 — Ноябрь 2023  
+- Разработал более 60 внешних обработок и печатных форм.  
+- Реализовал сложные отчёты для финансового и бухгалтерского учёта.
+
+## Основной стек
+
+- **C# / .NET**: ASP.NET Core, Entity Framework Core, Clean Architecture, CQRS (MediatR), SignalR, Avalonia UI, WPF
+- **Frontend**: Flutter/Dart (Riverpod, Flame, Quill), Avalonia UI (MVVM + CommunityToolkit)
+- **Базы данных**: PostgreSQL, Redis, SQLite (Drift/Hive)
+- **Дополнительно**: Docker, Git, gRPC, REST, MinIO/S3, Java, Python, Golang
+
+Активно использую AI-инструменты (Claude Code и др.) для ревью кода и архитектурных решений.
+
+## Ключевые проекты
+
+### **DnDigital** — Компаньон для D&D 5e
+Кроссплатформенный сервис для игроков и мастеров: справочник правил (SRD), интерактивные листы персонажей, редактор приключений, **виртуальный игровой стол (VTT)** с real-time мультиплеером, трекер инициативы/ХП, генератор энкаунтеров.
+
+**Стек**:  
+- **Backend**: ASP.NET Core (Clean Architecture + CQRS + MediatR), SignalR + Redis backplane, EF Core + PostgreSQL, MinIO  
+- **Frontend**: Flutter (Web/Mobile/Desktop) + Riverpod + Flame + Flutter Quill + Drift (offline-first)  
+
+[Подробнее →](./attachments/DnDigital.md)
+
+### **ReadMD** — Лёгкий Markdown-ридер для Windows
+Быстрый просмотрщик и редактор `.md` файлов с удобной типографикой, темами, подсветкой кода и установкой как приложение по умолчанию.
+
+**Стек**: Avalonia UI 12, MVVM (CommunityToolkit), MarkView.Avalonia, .NET 10.
+
+[Подробнее →](./attachments/ReadMD.md)
+
+### **BeautyGuide** — Каталог салонов красоты и мастеров
+Кроссплатформенное приложение для поиска услуг, мастеров, онлайн-записи, фильтрации и просмотра на карте (Яндекс.Карты).
+
+**Стек**: Avalonia UI (Desktop + Android + iOS + Browser/WASM), ReactiveUI + CommunityToolkit.Mvvm, локальные JSON-данные.
+
+[Подробнее →](./attachments/BeautyGuide.md)
+
+### **MountingSheets** — Автоматизация монтажных листов
+Исследовательский проект (ВКР): распознавание речи (Vosk + Whisper), обработка видео (FFmpeg + OpenCV), сопоставление сцен и экспорт в Excel.
+
+**Стек**: .NET 8, OpenCvSharp, FFmpeg.AutoGen, EPPlus, Vosk.
+
+[Подробнее →](./attachments/MountingSheets.md)
+
+### Flutter pet-проекты
+- **DnDigital Notes** — Многопанельный редактор заметок мастера для RPG (Flutter Quill + Hive + resizable panels + window_manager).  
+[Подробнее →](./attachments/Flutter-Quill-App.md)
+
+## Образование
+
+- **Бакалавр** — Прикладная информатика, Самарский государственный технический университет (2025)
+- Повышение квалификации — Педагогика дополнительного образования (2026)
+
+## Контакты
+
+- **Телефон**: +7 (917) 012-61-24 (предпочтительно Telegram)
+- **Telegram**: [@malinadan](https://t.me/malinadan)
+- **Email**: m-dan12@ya.ru
+- **GitHub**: [github.com/m-dan12](https://github.com/m-dan12)
+- **HH.ru**: [резюме](https://samara.hh.ru/resume/b959a480ff0f728a230039ed1f657642416845)
+
+Готов рассматривать интересные задачи и команды. Буду рад пообщаться!
