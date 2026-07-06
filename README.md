@@ -62,6 +62,9 @@
 **DnDigital Notes** — Многопанельный редактор заметок мастера для RPG (Flutter Quill + Hive + resizable panels + window_manager).  
 [Подробнее →](https://github.com/m-dan12/DnDigital-Notes)
 
+### Python pet-проекты
+**Local AI Chat** — Локальный чат с документами на FastAPI и Ollama, где можно загружать PDF/Markdown и задавать вопросы по их содержимому без интернета.
+
 ## Образование
 
 - **Бакалавр** — Прикладная информатика, Самарский государственный технический университет (2025)
